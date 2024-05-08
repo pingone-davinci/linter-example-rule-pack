@@ -2,7 +2,7 @@
   "name": "linter-example-rule-pack",
   "version": "0.1.0",
   "description": "Linter Example Rule Pack",
-  "main": "ExampleRulePack.js",
+  "main": "RulePack.js",
   "scripts": {
     "test": "jest --verbose",
     "eslint": "eslint -c .eslintrc ./lib/**"
