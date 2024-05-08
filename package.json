@@ -1,6 +1,6 @@
 {
   "name": "linter-example-rule-pack",
-  "version": "0.1.11",
+  "version": "0.1.0",
   "description": "Linter Example Rule Pack",
   "main": "ExampleRulePack.js",
   "scripts": {
@@ -17,12 +17,12 @@
     "flow",
     "linter"
   ],
-  "author": "Ping Identity Cloud Accelerators (https://www.pingidentity.com/)",
+  "author": "Ping Identity",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/pingone-davinci/linter-example-rule-pack/issues"
   },
-  "homepage": "https://github.com/pingone-davinci/linter-example-rule-pack#readme",
+  "homepage": "https://library.pingidentity.com/page/linter-example-rule-pack",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.30.6",
     "@typescript-eslint/parser": "^5.30.6",
