@@ -27,3 +27,6 @@ jobs:
 
       - name: Run tests
         run: npm test
+
+      - name: Generate rules
+        run: node_modules/pingone-davinci-linter/lib/dvlint --lintRules --json
