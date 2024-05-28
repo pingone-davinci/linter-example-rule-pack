@@ -1,0 +1,14 @@
+[
+  {
+    "name": "linter-example-rule-pack",
+    "description": "Linter Example Rule Pack",
+    "version": "0.1.0",
+    "rules": [
+      {
+        "id": "dv-rule-example-001",
+        "description": "Example Rule",
+        "codes": {}
+      }
+    ]
+  }
+]
