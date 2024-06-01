@@ -4,7 +4,6 @@
   "errorCount": 0,
   "rulePackResults": [
     {
-      "name": "linter-example-rule-pack",
       "pass": true,
       "errorCount": 0,
       "lintResults": [

@@ -1,6 +1,6 @@
 {
   "name": "linter-example-rule-pack",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Linter Example Rule Pack",
   "main": "RulePack.js",
   "scripts": {
@@ -35,6 +35,6 @@
     "prettier": "^2.7.1"
   },
   "dependencies": {
-    "pingone-davinci-linter": "git://github.com/pingone-davinci/pingone-davinci-linter.git"
+    "@pingidentity/dvlint": "^0.6.3"
   }
 }

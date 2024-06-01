@@ -1,5 +1,4 @@
-const LintRule = require("pingone-davinci-linter/lib/LintRule");
-// const DVUtils = require("pingone-davinci-linter/lib/DaVinciUtil");
+const { LintRule } = require("@pingidentity/dvlint");
 
 class ExampleRule extends LintRule {
   constructor() {
